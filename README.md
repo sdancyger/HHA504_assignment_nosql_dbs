@@ -6,3 +6,4 @@
 
 ![alt text](<gcps/gcp 2.png>)
 
+![ok](<gcps/gcp 3.png>)
